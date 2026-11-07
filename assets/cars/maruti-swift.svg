@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Maruti Suzuki Swift placeholder illustration">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#F2F6FC"/><stop offset="1" stop-color="#DEE8F6"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#E0565F"/><stop offset="1" stop-color="#C13A44"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" fill="url(#sky)"/>
+  <circle cx="322" cy="56" r="34" fill="#FF6B1A" opacity=".16"/>
+  <circle cx="70" cy="42" r="18" fill="#0B1F3A" opacity=".06"/>
+  <ellipse cx="202" cy="220" rx="150" ry="9" fill="#0B1F3A" opacity=".12"/>
+  <!-- hatchback cabin -->
+  <path d="M116 150 L140 108 Q145 98 156 98 L236 98 Q248 98 254 108 L268 150 Z" fill="url(#body)"/>
+  <path d="M150 110 Q153 105 159 105 L192 105 L192 142 L132 142 Z" fill="#BFD6F2"/>
+  <path d="M202 105 L234 105 Q240 105 243 110 L254 142 L202 142 Z" fill="#BFD6F2"/>
+  <!-- body (shorter tail) -->
+  <rect x="64" y="142" width="272" height="52" rx="16" fill="url(#body)"/>
+  <rect x="64" y="168" width="272" height="10" fill="#0B1F3A" opacity=".08"/>
+  <rect x="318" y="150" width="16" height="10" rx="5" fill="#FFC861"/>
+  <rect x="66" y="150" width="12" height="10" rx="5" fill="#8E1F27"/>
+  <path d="M196 142 L196 190" stroke="#0B1F3A" opacity=".15" stroke-width="3"/>
+  <rect x="168" y="152" width="22" height="5" rx="2.5" fill="#0B1F3A" opacity=".25"/>
+  <rect x="208" y="152" width="22" height="5" rx="2.5" fill="#0B1F3A" opacity=".25"/>
+  <!-- wheels -->
+  <circle cx="126" cy="192" r="26" fill="#17202E"/>
+  <circle cx="276" cy="192" r="26" fill="#17202E"/>
+  <circle cx="126" cy="192" r="11" fill="#C8D3E3"/>
+  <circle cx="276" cy="192" r="11" fill="#C8D3E3"/>
+  <circle cx="126" cy="192" r="4" fill="#17202E"/>
+  <circle cx="276" cy="192" r="4" fill="#17202E"/>
+</svg>

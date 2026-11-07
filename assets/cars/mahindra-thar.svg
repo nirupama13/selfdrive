@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Mahindra Thar placeholder illustration">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#F2F6FC"/><stop offset="1" stop-color="#DEE8F6"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#4E5B70"/><stop offset="1" stop-color="#333F52"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" fill="url(#sky)"/>
+  <circle cx="322" cy="56" r="34" fill="#FF6B1A" opacity=".16"/>
+  <circle cx="70" cy="42" r="18" fill="#0B1F3A" opacity=".06"/>
+  <ellipse cx="202" cy="220" rx="160" ry="9" fill="#0B1F3A" opacity=".12"/>
+  <!-- boxy 4x4 cabin -->
+  <path d="M118 136 L128 92 Q130 84 140 84 L252 84 Q260 84 263 91 L282 136 Z" fill="url(#body)"/>
+  <rect x="130" y="80" width="130" height="5" rx="2.5" fill="#0B1F3A" opacity=".5"/>
+  <path d="M138 94 Q139 90 145 90 L192 90 L192 128 L128 128 Z" fill="#BFD6F2"/>
+  <path d="M202 90 L248 90 Q254 90 256 95 L268 128 L202 128 Z" fill="#BFD6F2"/>
+  <!-- body -->
+  <rect x="52" y="126" width="296" height="66" rx="12" fill="url(#body)"/>
+  <rect x="52" y="172" width="296" height="20" rx="10" fill="#0B1F3A" opacity=".45"/>
+  <!-- spare wheel hint -->
+  <rect x="52" y="134" width="12" height="48" rx="6" fill="#17202E" opacity=".7"/>
+  <circle cx="338" cy="146" r="8" fill="#FFC861"/>
+  <path d="M198 126 L198 188" stroke="#0B1F3A" opacity=".3" stroke-width="3"/>
+  <rect x="168" y="140" width="24" height="5" rx="2.5" fill="#C8D3E3" opacity=".5"/>
+  <rect x="210" y="140" width="24" height="5" rx="2.5" fill="#C8D3E3" opacity=".5"/>
+  <!-- big wheels -->
+  <circle cx="122" cy="192" r="30" fill="#17202E"/>
+  <circle cx="284" cy="192" r="30" fill="#17202E"/>
+  <circle cx="122" cy="192" r="13" fill="#C8D3E3"/>
+  <circle cx="284" cy="192" r="13" fill="#C8D3E3"/>
+  <circle cx="122" cy="192" r="5" fill="#17202E"/>
+  <circle cx="284" cy="192" r="5" fill="#17202E"/>
+</svg>

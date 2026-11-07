@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Honda Amaze placeholder illustration">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#F2F6FC"/><stop offset="1" stop-color="#DEE8F6"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#D7DEE9"/><stop offset="1" stop-color="#AAB5C8"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" fill="url(#sky)"/>
+  <circle cx="322" cy="56" r="34" fill="#FF6B1A" opacity=".16"/>
+  <circle cx="70" cy="42" r="18" fill="#0B1F3A" opacity=".06"/>
+  <ellipse cx="202" cy="220" rx="160" ry="9" fill="#0B1F3A" opacity=".12"/>
+  <!-- cabin -->
+  <path d="M120 150 L142 110 Q147 100 158 100 L242 100 Q253 100 259 109 L284 150 Z" fill="url(#body)"/>
+  <path d="M152 112 Q155 107 161 107 L196 107 L196 142 L136 142 Z" fill="#BFD6F2"/>
+  <path d="M206 107 L240 107 Q246 107 249 112 L266 142 L206 142 Z" fill="#BFD6F2"/>
+  <!-- body -->
+  <rect x="52" y="142" width="296" height="52" rx="16" fill="url(#body)"/>
+  <rect x="52" y="168" width="296" height="10" fill="#0B1F3A" opacity=".08"/>
+  <rect x="330" y="150" width="16" height="10" rx="5" fill="#FFC861"/>
+  <rect x="54" y="150" width="12" height="10" rx="5" fill="#E24C4C"/>
+  <path d="M200 142 L200 190" stroke="#0B1F3A" opacity=".15" stroke-width="3"/>
+  <rect x="172" y="152" width="22" height="5" rx="2.5" fill="#0B1F3A" opacity=".25"/>
+  <rect x="212" y="152" width="22" height="5" rx="2.5" fill="#0B1F3A" opacity=".25"/>
+  <!-- wheels -->
+  <circle cx="122" cy="192" r="26" fill="#17202E"/>
+  <circle cx="282" cy="192" r="26" fill="#17202E"/>
+  <circle cx="122" cy="192" r="11" fill="#C8D3E3"/>
+  <circle cx="282" cy="192" r="11" fill="#C8D3E3"/>
+  <circle cx="122" cy="192" r="4" fill="#17202E"/>
+  <circle cx="282" cy="192" r="4" fill="#17202E"/>
+</svg>

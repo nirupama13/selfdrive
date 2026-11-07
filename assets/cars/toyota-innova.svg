@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Toyota Innova Crysta placeholder illustration">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#F2F6FC"/><stop offset="1" stop-color="#DEE8F6"/>
+    </linearGradient>
+    <linearGradient id="body" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#8E99A9"/><stop offset="1" stop-color="#5F6B7D"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="240" fill="url(#sky)"/>
+  <circle cx="322" cy="56" r="34" fill="#FF6B1A" opacity=".16"/>
+  <circle cx="70" cy="42" r="18" fill="#0B1F3A" opacity=".06"/>
+  <ellipse cx="202" cy="220" rx="164" ry="9" fill="#0B1F3A" opacity=".12"/>
+  <!-- long MPV cabin -->
+  <path d="M104 136 L126 94 Q130 86 140 86 L262 86 Q272 86 276 94 L296 136 Z" fill="url(#body)"/>
+  <rect x="132" y="82" width="140" height="5" rx="2.5" fill="#0B1F3A" opacity=".35"/>
+  <path d="M136 96 Q139 92 145 92 L182 92 L182 130 L120 130 Z" fill="#BFD6F2"/>
+  <path d="M190 92 L228 92 L228 130 L190 130 Z" fill="#BFD6F2"/>
+  <path d="M236 92 L260 92 Q266 92 269 97 L284 130 L236 130 Z" fill="#BFD6F2"/>
+  <!-- body -->
+  <rect x="44" y="128" width="312" height="64" rx="16" fill="url(#body)"/>
+  <rect x="44" y="174" width="312" height="18" rx="9" fill="#0B1F3A" opacity=".22"/>
+  <rect x="336" y="138" width="18" height="11" rx="5" fill="#FFC861"/>
+  <rect x="46" y="138" width="13" height="11" rx="5" fill="#E24C4C"/>
+  <path d="M186 128 L186 188 M232 128 L232 188" stroke="#0B1F3A" opacity=".18" stroke-width="3"/>
+  <rect x="158" y="142" width="22" height="5" rx="2.5" fill="#0B1F3A" opacity=".3"/>
+  <rect x="198" y="142" width="22" height="5" rx="2.5" fill="#0B1F3A" opacity=".3"/>
+  <!-- wheels -->
+  <circle cx="118" cy="192" r="28" fill="#17202E"/>
+  <circle cx="288" cy="192" r="28" fill="#17202E"/>
+  <circle cx="118" cy="192" r="12" fill="#C8D3E3"/>
+  <circle cx="288" cy="192" r="12" fill="#C8D3E3"/>
+  <circle cx="118" cy="192" r="4.5" fill="#17202E"/>
+  <circle cx="288" cy="192" r="4.5" fill="#17202E"/>
+</svg>
